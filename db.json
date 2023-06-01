@@ -1,40 +1,233 @@
 {
-  "product": [
+  "prep1Exam": [
+    {
+      "id": 1,
+      "choose": "A car door is mode of ........",
+      "answor1": "wood",
+      "answor2": "metal",
+      "answor3": "leather",
+      "answor4": "cotton",
+      "answorTrue": "metal"
+    },
+    {
+      "id": 2,
+      "choose": "Car windows are mode of........",
+      "answor1": "plastic",
+      "answor2": "sand",
+      "answor3": "stone",
+      "answor4": "glass",
+      "answorTrue": "glass"
+    },
+    {
+      "id": 3,
+      "choose": "I read a/an ...... about the most dangerous sea animals.",
+      "answor1": "diary",
+      "answor2": "articl",
+      "answor3": "title",
+      "answor4": "interview",
+      "answorTrue": "articl"
+    },
     {
       "id": 4,
-      "title": "Mens Casual Slim Fit",
-      "price": 15.99,
-      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 2.1,
-        "count": 430
-      }
+      "choose": "To ...... is to put something over something else to protect or hide it.",
+      "answor1": "pay",
+      "answor2": "stay",
+      "answor3": "leave",
+      "answor4": "cover",
+      "answorTrue": "cover"
     },
     {
       "id": 5,
-      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-      "price": 695,
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
-      }
+      "choose": "Let's ...... two pyramids in Egypt, the Great Pyramid of Giza with the Red Pyramid.",
+      "answor1": "visit",
+      "answor2": "measure",
+      "answor3": "compare",
+      "answor4": "guess",
+      "answorTrue": "compare"
     },
     {
       "id": 6,
-      "title": "Solid Gold Petite Micropave ",
-      "price": 168,
-      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 70
-      }
+      "choose": "Your father's father is your ........ .",
+      "answor1": "grandmother",
+      "answor2": "cousin",
+      "answor3": "grandfather",
+      "answor4": "brother",
+      "answorTrue": "grandfather"
+    },
+    {
+      "id": 7,
+      "choose": "Throw the ball to ........, please. I'm waiting.",
+      "answor1": "me",
+      "answor2": "my",
+      "answor3": "I",
+      "answor4": "mine",
+      "answorTrue": "me"
+    },
+    {
+      "id": 8,
+      "choose": "Clap for football players. ........ played very well.",
+      "answor1": "Them",
+      "answor2": "They",
+      "answor3": "Their",
+      "answor4": "Theirs",
+      "answorTrue": "They"
+    },
+    {
+      "id": 9,
+      "choose": "Heidi's aunt arrives and ........ her to the city.",
+      "answor1": "makes",
+      "answor2": "gives",
+      "answor3": "takes",
+      "answor4": "talks",
+      "answorTrue": "takes"
+    },
+    {
+      "id": 10,
+      "choose": "He doesn't .......... to music.",
+      "answor1": "listens",
+      "answor2": "listen",
+      "answor3": "listening",
+      "answor4": "listened",
+      "answorTrue": "listen"
+    }
+  ],
+  "prep2Exam": [
+    {
+      "id": 1,
+      "choose": "You ....... look right and left before you cross the road.",
+      "answor1": "has to",
+      "answor2": "must",
+      "answor3": "mustn't",
+      "answor4": "can't",
+      "answorTrue": "must"
+    },
+    {
+      "id": 2,
+      "choose": "When did Ali ....... that book?",
+      "answor1": "buy",
+      "answor2": "bought",
+      "answor3": "buys",
+      "answor4": "brought",
+      "answorTrue": "buy"
+    },
+    {
+      "id": 3,
+      "choose": "mona ....... to school yesterday because she was ill.",
+      "answor1": "not come",
+      "answor2": "doesn't come",
+      "answor3": "don't come",
+      "answor4": "didn't come",
+      "answorTrue": "didn't come"
+    },
+    {
+      "id": 4,
+      "choose": "I'm hungry. I think ....... a sandwich.",
+      "answor1": "I have",
+      "answor2": "I'm going to have",
+      "answor3": "I'll have",
+      "answor4": "I had",
+      "answorTrue": "I'll have"
+    },
+    {
+      "id": 5,
+      "choose": "Go up the stairs. The laboratory is on the first ....... .",
+      "answor1": "gate",
+      "answor2": "door",
+      "answor3": "flour",
+      "answor4": "floor",
+      "answorTrue": "floor"
+    },
+    {
+      "id": 6,
+      "choose": "It is best to ....... your school bag the night before you go to school.",
+      "answor1": "pack",
+      "answor2": "place",
+      "answor3": "put",
+      "answor4": "plan",
+      "answorTrue": "pack"
+    },
+    {
+      "id": 7,
+      "choose": "On my new ....... I can see that we have Englesh in the morning.",
+      "answor1": "corridor",
+      "answor2": "timetable",
+      "answor3": "map",
+      "answor4": "location",
+      "answorTrue": "timetable"
+    },
+    {
+      "id": 8,
+      "choose": "Sunglasses can ....... your eyes from the sun.",
+      "answor1": "pour",
+      "answor2": "peel",
+      "answor3": "protect",
+      "answor4": "put",
+      "answorTrue": "protect"
+    },
+    {
+      "id": 9,
+      "choose": "You ....... stay in the library after six o'clock because it closes then.",
+      "answor1": "must",
+      "answor2": "can't",
+      "answor3": "can",
+      "answor4": "did",
+      "answorTrue": "can't"
+    },
+    {
+      "id": 10,
+      "choose": "lock, Grandma is carrying a lot of begs. I ....... her.",
+      "answor1": "going to help",
+      "answor2": "will help",
+      "answor3": "help",
+      "answor4": "didn't help",
+      "answorTrue": "will help"
+    }
+  ],
+  "prep3Exam": [
+    {
+      "id": 1,
+      "choose": "People wear colourful .......... in parades.",
+      "answor1": "decoration",
+      "answor2": "customs",
+      "answor3": "sun cream",
+      "answor4": "costumes",
+      "answorTrue": "costumes"
+    },
+    {
+      "id": 2,
+      "choose": "We must use .......... to hold up the a tent.",
+      "answor1": "poles",
+      "answor2": "flutes",
+      "answor3": "pools",
+      "answor4": "flats",
+      "answorTrue": "poles"
+    },
+    {
+      "id": 3,
+      "choose": "You can go .......... when it's windy.",
+      "answor1": "scuba diving",
+      "answor2": "swimming",
+      "answor3": "snorkelling",
+      "answor4": "windsurfing",
+      "answorTrue": "windsurfing"
+    },
+    {
+      "id": 4,
+      "choose": "You need strong .......... to be good at most spots.",
+      "answor1": "physical",
+      "answor2": "museles",
+      "answor3": "feeling",
+      "answor4": "memory",
+      "answorTrue": "museles"
+    },
+    {
+      "id": 5,
+      "choose": "Eid al-fitr is a famous .......... in muslim countries.",
+      "answor1": "market",
+      "answor2": "museum",
+      "answor3": "festival",
+      "answor4": "soil",
+      "answorTrue": "festival"
     }
   ]
 }
