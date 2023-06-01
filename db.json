@@ -229,5 +229,19 @@
       "answor4": "soil",
       "answorTrue": "festival"
     }
+  ],
+  "codeTeacher": [
+    {
+      "id": 1,
+      "code": 28815901
+    },
+    {
+      "id": 2,
+      "code": 17428457
+    },
+    {
+      "id": 3,
+      "code": 73082517
+    }
   ]
 }
