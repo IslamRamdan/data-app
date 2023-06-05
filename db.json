@@ -285,5 +285,20 @@
       "id": 3,
       "alert": "تاكدو من حل صفحة 55"
     }
+  ],
+  "HomeworkPrep1": [
+    { "id": 1, "homework": "fdklfjkldjklf" },
+    { "id": 2, "homework": "ruru rjhr fjksj" },
+    { "id": 3, "homework": "fdk dwd;lqkjlwd lf kdlqjk jkldjklf" }
+  ],
+  "HomeworkPrep2": [
+    { "id": 1, "homework": "fdklfjkldjklf" },
+    { "id": 2, "homework": "ruru rjhr fjksj" },
+    { "id": 3, "homework": "fdk dwd;lqkjlwd lf kdlqjk jkldjklf" }
+  ],
+  "HomeworkPrep3": [
+    { "id": 1, "homework": "fdklfjkldjklf" },
+    { "id": 2, "homework": "ruru rjhr fjksj" },
+    { "id": 3, "homework": "fdk dwd;lqkjlwd lf kdlqjk jkldjklf" }
   ]
 }
