@@ -300,5 +300,29 @@
     { "id": 1, "homework": "fdklfjkldjklf" },
     { "id": 2, "homework": "ruru rjhr fjksj" },
     { "id": 3, "homework": "fdk dwd;lqkjlwd lf kdlqjk jkldjklf" }
+  ],
+  "usersPrep1": [
+    {
+      "id": 1,
+      "userCode": 28815901,
+      "username": "محمد حمدي",
+      "examDegree": []
+    }
+  ],
+  "usersPrep2": [
+    {
+      "id": 1,
+      "userCode": 28815901,
+      "username": "احمد رمضان",
+      "examDegree": []
+    }
+  ],
+  "usersPrep3": [
+    {
+      "id": 1,
+      "userCode": 28815901,
+      "username": "اسلام رمضان",
+      "examDegree": []
+    }
   ]
 }
