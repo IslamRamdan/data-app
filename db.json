@@ -306,7 +306,7 @@
       "id": 1,
       "userCode": 28815901,
       "username": " حمدي",
-      "examDegree": "",
+      "examDegree": [],
       "exam": false
     }
   ],
@@ -315,7 +315,7 @@
       "id": 1,
       "userCode": 28815901,
       "username": "احمد رمضان",
-      "examDegree": "",
+      "examDegree": [],
       "exam": false
     }
   ],
@@ -324,7 +324,7 @@
       "id": 1,
       "userCode": 28815901,
       "username": "اسلام رمضان",
-      "examDegree": "",
+      "examDegree": [],
       "exam": false
     }
   ]
